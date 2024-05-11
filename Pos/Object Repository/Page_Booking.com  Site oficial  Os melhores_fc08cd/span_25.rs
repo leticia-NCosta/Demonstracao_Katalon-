@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_25</name>
+   <tag></tag>
+   <elementGuidId>e953a65d-b66b-4eed-b9c5-91fca648e703</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='calendar-searchboxdatepicker']/div/div/div/div/table/tbody/tr[4]/td[7]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;25 maio 2024&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3cc0d336-f361-4067-af0f-a0c609ac8486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>c4645577-d58e-40e2-b459-05a0f686c674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendar-searchboxdatepicker&quot;)/div[@class=&quot;c3b22e6fe5&quot;]/div[@class=&quot;a10b0e2d13 c807ff2d48&quot;]/div[@class=&quot;d4babb55ef&quot;]/div[@class=&quot;d358556c65&quot;]/table[@class=&quot;eb03f3f27f&quot;]/tbody[1]/tr[4]/td[@class=&quot;b80d5adb18&quot;]/span[@class=&quot;cf06f772fa ef091eb985&quot;]/span[1]</value>
+      <webElementGuid>2d93a353-cac4-4753-8697-41984dad5298</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='calendar-searchboxdatepicker']/div/div/div/div/table/tbody/tr[4]/td[7]/span/span</value>
+      <webElementGuid>c5a6ca1c-5399-4587-a9b3-827470d42743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa.'])[1]/following::span[50]</value>
+      <webElementGuid>3619056d-b025-44b8-91bc-9326003d5c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do.'])[1]/following::span[50]</value>
+      <webElementGuid>739e4ee5-6cd2-4e8b-a1ed-6703ba209ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='junho 2024'])[1]/preceding::span[13]</value>
+      <webElementGuid>f907752f-81bd-4537-8673-b7478592b9fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do.'])[2]/preceding::span[13]</value>
+      <webElementGuid>73252cee-c614-4324-88e7-1e7a6232a505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='25']/parent::*</value>
+      <webElementGuid>689402c8-7a32-4d81-b6c8-5763b74226b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[7]/span/span</value>
+      <webElementGuid>c191d8f6-4b69-4940-8a40-df88b8a870d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '25' or . = '25')]</value>
+      <webElementGuid>5d2201b5-4daa-4ffd-bb7d-9320b6cbbf70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

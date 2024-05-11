@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2 adultos  0 criana  1 quarto</name>
+   <tag></tag>
+   <elementGuidId>17c47ead-d976-4262-b9ea-373554929769</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='indexsearch']/div[2]/div/form/div/div[3]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.a83ed08757.ebbedaf8ac.ada2387af8 > span.a8887b152e</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;occupancy-config&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2696760f-922d-432e-b06d-45927b03f74e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a8887b152e</value>
+      <webElementGuid>158dc9b3-da7d-46bb-bed6-627bab3ba158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 adultos · 0 criança · 1 quarto</value>
+      <webElementGuid>601667ee-1e5c-4503-87db-dff7483175a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;indexsearch&quot;)/div[@class=&quot;hero-banner-searchbox&quot;]/div[1]/form[1]/div[@class=&quot;ffb9c3d6a3 c9a7790c31 e691439f9a&quot;]/div[@class=&quot;e22b782521&quot;]/div[@class=&quot;d777d2b248&quot;]/button[@class=&quot;a83ed08757 ebbedaf8ac ada2387af8&quot;]/span[@class=&quot;a8887b152e&quot;]</value>
+      <webElementGuid>a273e1af-5d40-4cf6-9546-71f378942bae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='indexsearch']/div[2]/div/form/div/div[3]/div/button/span</value>
+      <webElementGuid>a728eb94-9dd5-4e32-b1c5-bfef62f7c0a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sáb., 1º de jun.'])[1]/following::span[1]</value>
+      <webElementGuid>40c8f0f6-f1b6-4062-8ba6-b5acd66db35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='—'])[1]/following::span[2]</value>
+      <webElementGuid>50a44418-4d8b-4c69-a85b-78c7c7994094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesquisar'])[1]/preceding::span[3]</value>
+      <webElementGuid>20c90db2-b561-4e59-bba4-a360fa102fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estou buscando casas e apartamentos inteiros'])[1]/preceding::span[7]</value>
+      <webElementGuid>5c70b141-b7a7-4095-9565-921346fa7944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2 adultos · 0 criança · 1 quarto']/parent::*</value>
+      <webElementGuid>53ad1a3c-2e52-4239-be98-013fa2de0eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>9f125002-ae8b-453c-9c21-453aae5bce82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2 adultos · 0 criança · 1 quarto' or . = '2 adultos · 0 criança · 1 quarto')]</value>
+      <webElementGuid>446b047a-f9ce-4c82-9076-b871494948c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

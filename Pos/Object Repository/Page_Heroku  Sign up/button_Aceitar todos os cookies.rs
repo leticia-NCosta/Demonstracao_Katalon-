@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Aceitar todos os cookies</name>
+   <tag></tag>
+   <elementGuidId>9e4eee06-c72e-40f8-88b5-acef6e4375a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='onetrust-accept-btn-handler']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#onetrust-accept-btn-handler</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Aceitar todos os cookies&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c80fe327-1c36-47fe-8a93-614bbb4d81f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-accept-btn-handler</value>
+      <webElementGuid>3faa967b-dc01-44a7-980a-7c8a03d2b2ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aceitar todos os cookies</value>
+      <webElementGuid>a0ee8b8f-c40a-4928-9168-f4eda548c894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-accept-btn-handler&quot;)</value>
+      <webElementGuid>ae6237eb-7c97-4281-8b5f-c9ea8855258b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='onetrust-accept-btn-handler']</value>
+      <webElementGuid>c52d7e8e-3cf5-4f49-be06-fa712a797007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onetrust-button-group']/div/button</value>
+      <webElementGuid>6dd842a3-ccb6-4c1f-ae95-ee75e7d235a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gerenciador de consentimento de cookies.'])[1]/following::button[1]</value>
+      <webElementGuid>07b00792-bcd8-44cf-88af-2238f2247c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declaração de privacidade.'])[1]/following::button[1]</value>
+      <webElementGuid>2dc83ad3-5a7b-4edc-abd0-bd5182a4ca6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gestor de consentimento de cookies'])[1]/preceding::button[1]</value>
+      <webElementGuid>c61c8aeb-5d8c-4038-a571-509c18b633d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informação geral'])[1]/preceding::button[1]</value>
+      <webElementGuid>20109348-f4e0-4b38-b40e-4fafe9cf89fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aceitar todos os cookies']/parent::*</value>
+      <webElementGuid>ed04b4ef-8a3d-41a3-805a-09d0f222e1ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>0e2213ab-63d1-4746-af2a-50004c050d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'onetrust-accept-btn-handler' and (text() = 'Aceitar todos os cookies' or . = 'Aceitar todos os cookies')]</value>
+      <webElementGuid>76784bf2-9078-4ec0-93ca-24d6398fc55b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

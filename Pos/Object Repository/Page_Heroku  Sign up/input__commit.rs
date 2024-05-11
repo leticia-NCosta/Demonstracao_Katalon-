@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__commit</name>
+   <tag></tag>
+   <elementGuidId>844f4042-2f8e-415f-963c-58ac52c4569f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='commit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;commit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Create an Account&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>afe42bb3-4520-4d47-b9ab-9b52a587ab55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>bab9cfde-4e8a-4d98-9eb7-3ee139ec6022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>commit</value>
+      <webElementGuid>57b3796a-07e9-480a-b466-a03364e69100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Create an Account</value>
+      <webElementGuid>6d0b495f-bb3d-4ba6-8340-0557eee63ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-alt full-width</value>
+      <webElementGuid>c3d9d8ec-d758-4207-af4d-48bd7c69365a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-disable-with</name>
+      <type>Main</type>
+      <value>Create an Account</value>
+      <webElementGuid>10862634-9ef6-48c5-aa1d-967f56b887cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;signup-page signup-page-default&quot;]/div[@class=&quot;signup-content&quot;]/div[@class=&quot;signup page-sidebar&quot;]/form[@class=&quot;signup-form initial-signup-form gtm_signup_register_form monocle-enriched&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;btn btn-alt full-width&quot;]</value>
+      <webElementGuid>a1335a7a-507c-4e39-9387-61092439cf73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='commit']</value>
+      <webElementGuid>75cdd3cf-6b71-4052-836e-9d98cc6b4a6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/input</value>
+      <webElementGuid>6a0a9577-eb2a-4a38-8fd1-eb1267814691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit' and @name = 'commit']</value>
+      <webElementGuid>37ad4de3-9f99-4cc1-ae6f-78e1e0d64d98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

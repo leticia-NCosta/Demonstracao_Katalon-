@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Salvador</name>
+   <tag></tag>
+   <elementGuidId>c8edd8c4-7fe2-4dab-b609-3c8e6ee859fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='autocomplete-result-0']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a3332d346a.d2f04c9037</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Salvador Bahia, Brasil&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6de37515-9dfa-4a75-8538-0079647802f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a3332d346a d2f04c9037</value>
+      <webElementGuid>f6992ede-c0af-4f70-876c-9b8c9d37093e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Salvador</value>
+      <webElementGuid>411123a4-d973-49f4-99b4-3767c3002303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autocomplete-result-0&quot;)/div[@class=&quot;d7430561e2&quot;]/div[@class=&quot;b0eaf5262b&quot;]/div[@class=&quot;ce5ee7d913&quot;]/div[@class=&quot;a3332d346a d2f04c9037&quot;]</value>
+      <webElementGuid>308b8873-6761-4e8c-8050-62228d365725</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='autocomplete-result-0']/div/div/div/div</value>
+      <webElementGuid>98c6e67e-8fba-4ca3-aed0-018f696b2d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Encontre sua próxima estadia'])[1]/following::div[19]</value>
+      <webElementGuid>41237f95-68f1-4bf4-9785-775221fa87d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mais'])[1]/following::div[25]</value>
+      <webElementGuid>4b9081e0-cf8f-407b-84b8-d99f6ff404db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahia, Brasil'])[1]/preceding::div[1]</value>
+      <webElementGuid>d31e058e-7bdc-4dc1-aa83-7cbafc878185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahia'])[1]/preceding::div[2]</value>
+      <webElementGuid>0e9dc71d-baa5-46e2-b004-2b618764a802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Salvador']/parent::*</value>
+      <webElementGuid>6435cd43-4859-46b9-a956-7f8da441c98d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/div</value>
+      <webElementGuid>7fc4a82e-df34-49b5-bd9f-96dcc1f625b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Salvador' or . = 'Salvador')]</value>
+      <webElementGuid>362f9077-8491-4ce7-8422-57f9a1f44af1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
